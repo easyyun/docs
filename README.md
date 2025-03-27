@@ -27,7 +27,7 @@
 
 ## PC端功能体验
 
-[pdf.pdfai.cn](https://pdf.pdfai.cn)
+[www.pdfai.cn](https://www.pdfai.cn)
 
 ## 小程序功能体验
 
